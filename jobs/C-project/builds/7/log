@@ -1,0 +1,8 @@
+Started by user [8mha:////4KymHFQuaChYi8NrW06us1uwZb8AKBDMvp1RJzd3C9aaAAAAmB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYe/dLi1CL9vMySjMpEAGYRo5LBAAAA[0mNithya v kumar
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/C-project
+[C-project] $ /bin/sh -xe /tmp/jenkins16685127152575576647.sh
++ /var/lib/jenkins/big2.sh 7 8
+/tmp/jenkins16685127152575576647.sh: line 2: /var/lib/jenkins/big2.sh: Permission denied
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
